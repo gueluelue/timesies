@@ -1,0 +1,2 @@
+# timesies
+Tiny timeseries DB
